@@ -1,6 +1,6 @@
 
-function soma(a, b){
-  return a+b
+function soma(s, b){
+  return s+b
 }
 
 function sub(a,b){
